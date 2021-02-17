@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @peter-xxxx
+- 👋 Hi, I’m peter
 - 👀 I’m interested in ... Discord bots
-- 🌱 I’m currently learning ... python
+- 🌱 I’m currently learning ... javascript
 - 📫 How to reach me ... abby lee miller#0661 on discord <33
 
 <!---
