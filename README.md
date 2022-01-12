@@ -1,7 +1,6 @@
-- 👋 Hi, I’m peter
-- 👀 I’m interested in ... Discord bots
-- 🌱 I’m currently learning ... javascript
-- 📫 How to reach me ... abby lee miller#0661 on discord <33
+Hello, 
+
+please contact me on discord at House Of Gucci#7405 for services
 
 <!---
 peter-xxxx/peter-xxxx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
